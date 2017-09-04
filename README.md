@@ -1,2 +1,2 @@
-# crossdomain_ssoclient
-SSO Client (Full Support CrossDomain)
+# 跨主域SSO单点登录（Demo）
+支持跨主域的单点登录客户端 (已有完整的跨域支持)
